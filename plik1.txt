@@ -1,3 +1,7 @@
 ZZIP plik testowy
 -----------------
 Plik 1
+
+Wprowadzam zmiany
+Test
+Test2
