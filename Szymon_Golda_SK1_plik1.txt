@@ -8,3 +8,5 @@ Test2
 
 Kolejne zmiany
 Test
+
+Ostateczna zmiana w pliku

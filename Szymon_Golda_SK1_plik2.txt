@@ -1,3 +1,5 @@
 ZZIP plik testowy
 -----------------
 Plik 2
+
+Ostateczna zmiana w pliku
