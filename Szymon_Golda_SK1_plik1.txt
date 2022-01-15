@@ -5,3 +5,6 @@ Plik 1
 Wprowadzam zmiany
 Test
 Test2
+
+Kolejne zmiany
+Test
